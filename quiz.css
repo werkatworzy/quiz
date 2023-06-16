@@ -1,0 +1,51 @@
+
+body {
+    background-color: #F8F4F1;
+    
+  }
+
+  h1 {
+text-align: center;
+font-family: 'Rubik', sans-serif;
+ font-size: 64px;
+ /* gradient */
+background: linear-gradient(270deg, #E96343 2.5%, #F5A935 50%, #E8919D 83%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+  }
+  h2 {
+    padding-top: 10px;
+    font-family: 'Rubik', sans-serif;
+     font-size: 20px;
+     color:#F47934;
+      }
+      div {
+        font-family: Calibri;
+        font-size: 20px;
+        padding-left: 80px;
+        margin-left: 70px;
+        margin-right: 70px;
+        font-style: bold;
+        background-color: white;
+        box-shadow: 0px 59px 24px rgba(54, 39, 27, 0.01), 0px 33px 20px rgba(54, 39, 27, 0.05), 0px 15px 15px rgba(54, 39, 27, 0.09), 0px 4px 8px rgba(54, 39, 27, 0.1), 0px 0px 0px rgba(54, 39, 27, 0.1);
+        border-radius: 0px 0px 0px 0px;
+      }
+      p {
+        font-family: Calibri;
+        font-size: 20px;
+        font-style: bold;
+        margin-bottom: 10px;
+      }
+      button {
+        position: absolute;
+        left: 540px;
+        font-family: 'Rubik', sans-serif;
+        font-size: 32px;
+        color:white;
+        background: linear-gradient(270deg, #E96343 2.5%, #F5A935 50%, #E8919D 83%);
+        border-radius: 20px 20px 20px 20px;
+        width: 360px;
+        height: 60px;
+        
+      }
